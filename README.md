@@ -490,7 +490,8 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Yannelli](https://github.com/yannelli)
+- [Ryan Yannelli](https://ryanyannelli.com)
+- [Nextvisit AI](https://nextvisit.ai)
 - [All Contributors](../../contributors)
 
 ## License
