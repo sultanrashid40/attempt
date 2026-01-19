@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to `:package_name` will be documented in this file.
+All notable changes to `yannelli/attempt` will be documented in this file.
 
 ## v0.1.0 - 2026-01-19
 
